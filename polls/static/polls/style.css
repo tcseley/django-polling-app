@@ -3,5 +3,5 @@ li a {
 }
 
 body {
-    background: white url("images/background.gif") no-repeat;
+    background: rgb(122, 120, 120) url("images/background.gif") no-repeat;
 }
